@@ -1,0 +1,8 @@
+＃ GitHubからGitHub Desktopにクローン
+
+```
+$ git push
+```
+
+
+
