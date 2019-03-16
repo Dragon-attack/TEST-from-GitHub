@@ -1,4 +1,4 @@
-＃ GitHubからGitHub Desktopにクローン
+# GitHubからGitHub Desktopにクローン
 
 ```
 $ git push
